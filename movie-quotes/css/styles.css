@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+}
+
+.dr{
+    color: beige;
+    text-align: left;
+    padding-left: 1em;
+    font-size: 20px;
+}
+.dana{
+    color: violet;
+    text-align: left;
+    padding-left: 5em;
+    font-size: 20px;
+}
+.ray{
+    color: red;
+    text-align: left;
+    padding-left: 5em;
+    font-size: 20px;
+}
+.mayor{
+    color: gold;
+    text-align: left;
+    padding-left: 17em;
+    font-size: 20px;
+}
+.egon{
+    color: green;
+    text-align: left;
+    padding-left: 9em;
+    font-size: 20px;
+}
+.win{
+    color: cornflowerblue;
+    text-align: left;
+    padding-left: 13em;
+    font-size: 20px;
+}.misc{
+    color: gray;
+    text-align: left;
+    padding-left: 1em;
+    font-size: 20px;
+}
