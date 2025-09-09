@@ -1,0 +1,93 @@
+    @media (min-width: 500px) {.column {
+        width: 28%;
+        float: inline-start;
+        margin: 0%;   
+    }
+    p {
+        font-size: x-small;
+    }
+    }
+
+    /* Larger than tablet */
+    @media (min-width: 820px) {.column {
+        width: 28%;
+        float: inline-start;
+        margin: 2%;   
+    }
+    p {
+        font-size: smaller;
+    }
+    }
+
+    /* Larger than desktop */
+    @media (min-width: 1000px) {.column {
+        width: 28%;
+        float: inline-start;
+        margin: 2%;   
+    }
+    p {
+        font-size: medium;
+    }
+}
+
+    /* Larger than Desktop HD */
+    @media (min-width: 1200px) {.column {
+        width: 28%;
+        float: inline-start;
+        margin: 2%;
+    }
+    p {
+        font-size: larger;
+    }}
+
+    @media (min-width: 1500px) {.column {
+        width: 28%;
+        float: inline-start;
+        margin: 2%;
+    }
+    p {
+        font-size: x-large;
+    }}
+
+body {
+    font-family: "Indie Flower", cursive;
+    font-weight: 600;
+    font-style: normal;
+
+    background-color: rgb(255, 246, 232);
+    min-width: 675px;
+}
+h1 { 
+    text-align: left;
+    color: peru;
+    margin-left: 2%;
+}
+h2 {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: peru;
+    font-size: xx-large;
+}
+h3 {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(238, 190, 143);
+    font-size: x-large;
+}
+p{
+    font-family: "Indie Flower", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+.linc {
+    color: darkolivegreen;
+  }
+.iss {
+    color: rgb(79, 41, 41);
+  }
+.bai {
+    color: darkslategrey;
+  }
+  
