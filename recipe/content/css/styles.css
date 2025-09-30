@@ -1,0 +1,25 @@
+
+body {
+    font-family: "Truculenta", sans-serif;
+    font-optical-sizing: auto;
+    margin: 5%;
+    font-size: 12pt;
+    background-color: #e8c38b;
+}
+
+h1 {color: #BD5438;}
+h2 {color: #6C3F2B;}
+h3 {color: #BD5438;}
+
+p {
+    font-size: 16pt;
+    color: #6C3F2B;
+}
+
+a {
+    color: #b43b2b;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+img {margin: 1%}
