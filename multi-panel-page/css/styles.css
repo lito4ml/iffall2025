@@ -1,0 +1,124 @@
+body {
+    font-family: "Archivo Narrow", sans-serif;
+    font-optical-sizing: auto;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    line-height: 1.2;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 31px;
+}
+
+h4 {
+    font-size: 20px;
+    margin: 0;
+    line-height: 1.2;
+    padding-top: 3px;
+    padding-bottom: 8px;
+}
+
+p {
+    font-size: 18px;
+    margin: 0;
+    line-height: 25px;
+    padding-bottom: 18px;
+}
+
+.column {
+    max-width: 960px;
+    justify-content: center;
+    margin: auto;
+
+}
+
+header {
+    text-align: center;
+    background-color: rgba(155,0,0,0.3);
+    background-image: url("../images/prettywaterlol.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 152px;
+    padding-bottom: 185px;
+    color: white;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+section {
+    padding-top: 40px;
+    padding-bottom: 36px;
+}
+
+.sec1 {
+    background-color: rgba(16,35,56,1);
+    color: white;
+}
+
+.sec2 {
+    background-color: rgba(240,240,240,1);
+    padding-top: 42px;
+    padding-bottom: 25px;
+    color: rgba(69,68,71,1);
+}
+
+.sec3 {
+    background-color: rgba(171,35,33,1);
+    padding-top: 42px;
+    padding-bottom: 79px;
+    color: white;
+}
+
+footer {
+    background-color: rgba(50,50,50,1);
+    padding-top: 42px;
+    padding-bottom: 24px;
+    color: white;
+}
+
+.sec1 img {
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+section.sec2 li {
+    width: 45%;
+    display: inline-block;
+    padding-bottom: 21px;
+    margin-right: 45px;
+}
+
+ul {
+    padding-inline-start: 0%;
+    box-sizing: border-box;
+}
+
+.sec2 img {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-right: 12px;
+}
+
+.sec3 .column {
+    max-width: 710px;
+}
+
+.sec3 p {
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center;
+}
