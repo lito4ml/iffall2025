@@ -1,0 +1,407 @@
+a#btn_nerf {
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 20px 40px 60px 40px;
+    background-color: #ffffff;
+    border: 4px solid #f67213;
+    text-decoration: none;
+    transition: all .2s;
+    color: #3f27db;
+}
+
+a#btn_nerf:hover {
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 10px 45px 75px 45px;
+    background-color: #f67213;
+    border: 4px solid #f67213;
+    color: #fff;
+    text-decoration: none;
+    transition: all .1s;
+}
+
+
+a#btn_cnetwork {
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 70px;
+
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 0px 10px 90px 10px;
+    text-decoration: none;
+    color: #ffffff;
+}
+a#btn_cnetwork .bg {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 112px;
+    width: 65.5px;
+    height: 65.5px;
+    z-index: -1;
+}
+a#btn_cnetwork em{
+    color: rgb(0, 0, 0);
+    font-style: normal;
+}
+
+a#btn_cnetwork:hover {
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 0px 10px 90px 10px;
+    text-decoration: none;
+    color: #000000;
+}
+.button_container {
+    position: relative;
+}
+a#btn_cnetwork:hover em{
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    rotate: 5deg;
+}
+a#btn_cnetwork:hover .bg {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 112px;
+    right: 86px;
+    width: 65.5px;
+    height: 65.5px;
+    z-index: -1;
+    rotate: 5deg;
+}
+
+
+a#btn_bissingers {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-weight: 400;
+  font-style: normal;
+    font-size: 35px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 30px 40px 60px 40px;
+    background-color: #473316;
+    text-decoration: none;
+    transition: all .5s;
+    color: #ffffff;
+}
+
+a#btn_bissingers:hover {
+    font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 40px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 90px;
+    padding: 10px 15px 50px 15px;
+    background-color: #bfa313;
+    color: #fff;
+    text-decoration: none;
+    transition: all .3s;
+}
+
+
+a#btn_kittens {
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+    font-size: 30px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    border-radius: 80px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 40px 30px 125px 30px;
+    background-color: #000000;
+    text-decoration: none;
+    transition: all 1s;
+    color: #ffffff;
+}
+
+a#btn_kittens:hover {
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+    font-size: 33px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 25px;
+    padding: 60px 55px 150px 55px;
+    color: #ff3232;
+    text-decoration: none;
+    transition: all .03s;
+    text-shadow: 0px 0px 8px #ce3a37;
+}
+
+
+a#btn_garden {
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: 600;
+  font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 30px 40px 90px 40px;
+    background-color: #ffffff;
+    text-decoration: none;
+    transition: all .5s;
+    color: #2a6029;
+}
+
+a#btn_garden:hover {
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 60px;
+    padding: 50px 40px 110px 40px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 1s;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cfdd63+0,008a00+65,005700+100,002400+100 */
+    background: linear-gradient(to bottom, #cfdd63 0%,#008a00 65%,#005700 100%,#002400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
+
+
+a#btn_stjude {
+    font-family: "Forum", serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 25px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 18px 20px 72px 20px;
+    background-color: #ffffff;
+    border: 2px solid rgb(203, 41, 41);
+    text-decoration: none;
+    transition: all .5s;
+    color: #2f2f2f;
+}
+
+a#btn_stjude:hover {
+    font-family: "Forum", serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 25.5px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 18px 20px 72px 20px;
+    background-color: #ffffff;
+    border: 2px solid rgb(203, 41, 41);
+    text-decoration: none;
+    transition: all .5s;
+    color: #2f2f2f;
+    -webkit-box-shadow: 0px 3px 6px 2px rgba(96,0,0,0.47); 
+    box-shadow: 0px 1px 3px 2px rgba(96,0,0,0.47); 
+}
+
+
+a#btn_newyorker {
+font-family: "Federo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 15px 20px 42px 20px;
+    background-color: #000000;
+    text-decoration: none;
+    transition: all .2s;
+    color: #ffffff;
+}
+a#btn_newyorker:hover {
+    font-family: "Federo", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 25px;
+        display: inline-block;
+        height: 50px;
+        box-sizing: border-box;
+        margin: auto;
+        margin-top: 80px;
+        padding: 15px 20px 42px 20px;
+        background-color: #ffffff;
+        text-decoration: none;
+        transition: all .2s;
+        color: #e01a1a;
+}
+
+
+a#btn_mollyjogger {
+    font-family: "Playwrite DE SAS", cursive;
+    font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+    display: inline-block;
+	height: 50px;
+	box-sizing: border-box;
+    margin: auto;
+    margin-top: 80px;
+    padding: 15px 20px 42px 20px;
+    text-decoration: none;
+    transition: all .2s;
+    color: #3e5125;
+}
+a#btn_mollyjogger:hover {
+    font-family: "Playwrite DE SAS", cursive;
+  font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      font-size: 32px;
+        display: inline-block;
+        height: 50px;
+        box-sizing: border-box;
+        margin: auto;
+        margin-top: 70px;
+        padding: 15px 20px 42px 20px;
+        text-decoration: none;
+        transition: all .2s;
+        color: #5b753a;
+        rotate: -3deg;
+    }
+
+    a#btn_mollyjogger::after,
+    a#btn_mollyjogger::before {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 3px;
+      background:#b2c26c;
+      bottom: -7px;
+      left: 0;
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.7s ease-out;
+      z-index: -1;
+    }
+    a#btn_mollyjogger:hover::after,
+    a#btn_mollyjogger:hover::before {
+      transform: scaleX(1);
+    }
+
+
+a#btn_electra {
+    font-family: "Mr Dafoe", cursive;
+  font-weight: 400;
+  font-style: normal;
+      font-style: normal;
+      font-size: 50px;
+        display: inline-block;
+        height: 50px;
+        box-sizing: border-box;
+        margin: auto;
+        margin-top: 70px;
+        border-radius: 50%;
+        padding: 25px 25px 100px 25px;
+        background-color: rgb(255, 255, 255);
+        text-decoration: none;
+        transition: all .2s;
+        color: #58c3bc;
+    }
+a#btn_electra:hover {
+    font-family: "Mr Dafoe", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-style: normal;
+    font-size: 50px;
+    display: inline-block;
+    height: 50px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 70px;
+    padding: 25px 25px 100px 25px;
+    background-color: white;
+    text-decoration: none;
+    transition: all .8s;
+    color: #58c3bc;
+    rotate: 360deg;
+    transform-origin: center;
+}
+
+
+a#btn_samsung {
+    font-family: "Urbanist", sans-serif;
+font-optical-sizing: auto;
+font-weight: 500;
+      font-style: normal;
+      font-size: 35px;
+        display: inline-block;
+        height: 50px;
+        box-sizing: border-box;
+        margin: auto;
+        margin-top: 90px;
+        padding: 15px 20px 42px 20px;
+        text-decoration: none;
+        transition: all .2s;
+        color: #000000;
+}
+ a#btn_samsung:hover {
+        font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+          font-weight: 900;
+          font-style: normal;
+          font-size: 35px;
+            display: inline-block;
+            height: 50px;
+            box-sizing: border-box;
+            margin: auto;
+            margin-top: 90px;
+            padding: 15px 20px 42px 20px;
+            text-decoration: none;
+            transition: all .2s;
+            color: rgb(42, 156, 255)
+}
