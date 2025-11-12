@@ -1,0 +1,128 @@
+body {
+    background-color: #5C2638;
+    color: rgb(255, 236, 241);
+    font-family: "gowun-batang", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+header {
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.grad {
+    background: #5C2638;
+    background: linear-gradient(0deg, rgba(92, 38, 56, 1) 0%, rgba(173, 38, 110, 1) 100%);
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+header button {
+    width: 30%;
+    font-size: 1.2rem;
+    border: 0;
+    background-color: transparent;
+}
+
+button.explore {
+    background-color: #7A8269;
+    border: solid;
+    border-color: #7A8269;
+    border-radius: 15%;
+    width: 45%;
+    font-size: 2.2rem;
+    padding: 20px;
+    margin: 1.5%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: "gowun-batang", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section {
+    max-width: 900px;
+    text-align: left;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 12rem;
+    font-family: "gowun-batang", sans-serif;
+    font-weight: 400;
+    margin-top: 100px;
+    color: white;
+}
+.utensils h1 {
+    font-size: 6rem;
+}
+.types h1 {
+    font-size: 6rem;
+}
+
+.bgimage {
+    position: absolute;
+    z-index: -999;
+    left: 0;
+    top: 500px;
+    width: 1500px;
+    min-width: 500px;
+    opacity: .7;
+    object-position: center;
+}
+
+@media (max-width: 850px) {
+    body {
+        font-size: 18px;
+    }
+    section {
+        max-width: 500px;
+        text-align: left;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    h1 {
+        font-size: 7rem;
+        margin-top: 100px;
+        text-align: center;
+    }
+    button.explore {
+        width: 90%;
+        font-size: 1.8rem;
+        padding: 15px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    body {
+        font-size: 16px;
+    }
+    section {
+        max-width: 500px;
+        text-align: left;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    h1 {
+        font-size: 5rem;
+        margin-top: 100px;
+        text-align: center;
+    }
+}
